@@ -1,6 +1,7 @@
-#include <stdio.h>
-#include<stdlib.h>
+#include <stdio.h> // para print()
+#include<stdlib.h> // para system()
 int main(){
-	printf("Primeiro programa");
+	printf("Primeiro programa 5.\n");
+	system("PAUSE");
 	return 0;
 }
